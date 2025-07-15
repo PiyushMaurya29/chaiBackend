@@ -1,5 +1,10 @@
-const fs = require('fs');
-fs.writeFile("hey.txt", "Hello kaise ho", function(err){
-  if(err) console.log(err);
-  else console.log("Done");
-})
+const accountID = 998;
+let accountEmail = "Maurya@123";
+var accountPass = "455";
+
+console.table([accountEmail, accountID, accountPass]);
+
+// alert(8+9);
+console.log(typeof undefined);
+console.log(typeof null);
+console.log(typeof '&');
