@@ -1,5 +1,3 @@
-let score = "33";
-console.log(typeof score);
-
-let value = (Number)(score);
-console.log(typeof value);
+let value = 9;
+let negValue = -value;
+console.log(negValue);
