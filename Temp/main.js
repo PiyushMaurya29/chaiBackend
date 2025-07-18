@@ -1,5 +1,4 @@
-function loginUserMessage(username){
-  return `${username} just logged in`;
-}
-let result = loginUserMessage("Piyush");
-console.log(result);
+if(function(){}) console.log("Jai ho");
+if("0") console.log("Jai ho");
+if("false") console.log("Jai ho");
+if('false') console.log("Jai ho");
